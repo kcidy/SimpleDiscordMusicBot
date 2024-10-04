@@ -19,14 +19,15 @@ A simple music bot for Discord written in Java. This bot allows users to control
 
 3. Configure the `application.configuration` file:
 
-   ```properties
+  ```properties
   bot.token=your_bot_token
   bot.playing=music
   bot.message.start=music start %title%
   bot.message.pause=music pause
   bot.message.unpause=music unpause
   bot.message.skip=music skip
-  bot.message.no_matches=music no matches```
+  bot.message.no_matches=music no matches
+  ```
 
   Replace `your_bot_token` with your Discord bot token.
 
