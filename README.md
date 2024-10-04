@@ -26,10 +26,9 @@ A simple music bot for Discord written in Java. This bot allows users to control
   bot.message.pause=music pause
   bot.message.unpause=music unpause
   bot.message.skip=music skip
-  bot.message.no_matches=music no matches
-   ```
+  bot.message.no_matches=music no matches```
 
-   Replace `your_bot_token` with your Discord bot token.
+  Replace `your_bot_token` with your Discord bot token.
 
 ## Commands
 
