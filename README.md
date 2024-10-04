@@ -2,6 +2,8 @@
 
 A simple music bot for Discord written in Java. This bot allows users to control music playback using commands. It supports the following commands: `!play`, `!skip`, `!pause`, and `!unpause`. Configuration is done through the `application.configuration` file.
 
+![1004(1)](https://github.com/user-attachments/assets/8426ffbe-46f7-454c-980a-88609030639e)
+
 ## Installation
 
 1. Clone the repository:
