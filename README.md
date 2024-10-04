@@ -1,0 +1,2 @@
+# SimpleDiscordMusicBot
+Music discord bot
